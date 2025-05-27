@@ -18,7 +18,7 @@ def main():
         elif is_lowercase(Char):
             print("Character is Lowercase")
         else:
-            print("Character is not a letter")
+            print("Please enter a letter")
     else:
         print("Invalid entry")
         
